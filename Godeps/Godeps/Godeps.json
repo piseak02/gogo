@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/Kraengsak/tsetapi",
+	"GoVersion": "go1.11.5",
+	"GodepVersion": "v80",
+	"Deps": []
+}
